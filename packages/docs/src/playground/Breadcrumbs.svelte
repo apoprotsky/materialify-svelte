@@ -1,6 +1,6 @@
 <script>
   import Playground from '@/components/doc/Playground.svelte';
-  import { Breadcrumbs } from 'svelte-materialify/src';
+  import { Breadcrumbs } from 'sveltfy/src';
 
   const controls = {
     large: { type: 'switch' },

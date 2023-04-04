@@ -1,5 +1,5 @@
 <script>
-  import { Switch } from 'svelte-materialify/src';
+  import { Switch } from 'sveltfy/src';
 </script>
 
 <Switch checked>On</Switch>

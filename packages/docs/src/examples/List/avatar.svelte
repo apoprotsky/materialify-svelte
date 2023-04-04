@@ -1,5 +1,5 @@
 <script>
-  import { List, ListItem, Subheader, Avatar, Icon } from 'svelte-materialify/src';
+  import { List, ListItem, Subheader, Avatar, Icon } from 'sveltfy/src';
   import { mdiStar, mdiStarOutline } from '@mdi/js';
 
   const items = [

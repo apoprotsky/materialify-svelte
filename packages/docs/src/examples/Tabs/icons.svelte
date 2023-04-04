@@ -1,5 +1,5 @@
 <script>
-  import { Tabs, Tab, Icon } from 'svelte-materialify/src';
+  import { Tabs, Tab, Icon } from 'sveltfy/src';
   import { mdiHome } from '@mdi/js';
 </script>
 

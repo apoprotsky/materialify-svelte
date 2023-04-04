@@ -1,5 +1,5 @@
 <script>
-  import { Row, Select } from 'svelte-materialify/src';
+  import { Row, Select } from 'sveltfy/src';
 
   const items = [
     { name: 'Foo!', value: 'foo' },

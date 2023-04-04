@@ -1,5 +1,5 @@
 <script>
-  import { AppBar, Button, Icon, Menu, ListItem } from 'svelte-materialify/src';
+  import { AppBar, Button, Icon, Menu, ListItem } from 'sveltfy/src';
   import { mdiMenu, mdiDotsVertical } from '@mdi/js';
 </script>
 

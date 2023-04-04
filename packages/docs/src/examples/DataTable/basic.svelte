@@ -5,7 +5,7 @@
     DataTableRow,
     DataTableCell,
     DataTableBody,
-  } from 'svelte-materialify/src';
+  } from 'sveltfy/src';
 </script>
 
 <DataTable>

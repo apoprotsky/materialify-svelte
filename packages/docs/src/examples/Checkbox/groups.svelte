@@ -1,5 +1,5 @@
 <script>
-  import { Checkbox } from 'svelte-materialify/src';
+  import { Checkbox } from 'sveltfy/src';
 
   let group = ['2'];
 </script>

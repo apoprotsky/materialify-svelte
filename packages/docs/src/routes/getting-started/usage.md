@@ -15,11 +15,11 @@ Once you have installed Svelte Materialify, it's time to learn how to use it.
 Depending on the Install you chose, there are two ways to import:
 ### With Default styles
 
-In your svelte files, import the _compiled_ module `from 'svelte-materialify'`:
+In your svelte files, import the _compiled_ module `from 'sveltfy'`:
 
 ```html
 <script>
-  import { MaterialApp, Button } from 'svelte-materialify';
+  import { MaterialApp, Button } from 'sveltfy';
 </script>
 
 <MaterialApp>
@@ -28,13 +28,13 @@ In your svelte files, import the _compiled_ module `from 'svelte-materialify'`:
 ```
 ### With Custom styles
 
-In your svelte files, import the _uncompiled_ module `from 'svelte-materialify/src'`:
+In your svelte files, import the _uncompiled_ module `from 'sveltfy/src'`:
 
 ```html
 <script>
-  import { MaterialApp, Button } from 'svelte-materialify/src';
+  import { MaterialApp, Button } from 'sveltfy/src';
   //this works, too:
-  import Button from 'svelte-materialify/src/components/Button/Button.svelte';
+  import Button from 'sveltfy/src/components/Button/Button.svelte';
 </script>
 
 <MaterialApp>
@@ -47,7 +47,7 @@ All components should be children of `MaterialApp`, which provides all the **glo
 
 ```html
 <script>
-  import { MaterialApp } from 'svelte-materialify'; //or from `/src`
+  import { MaterialApp } from 'sveltfy'; //or from `/src`
   let theme = 'light';
 </script>
 
@@ -60,7 +60,7 @@ If you don't want any global styles (other than theming and colors), you can use
 
 ```html
 <script>
-  import { MaterialAppMin } from 'svelte-materialify'; //or from `/src`
+  import { MaterialAppMin } from 'sveltfy'; //or from `/src`
   let theme = 'light';
 </script>
 
@@ -89,7 +89,7 @@ $spacer: 6px !default;
 To access these variables in your own components, just import the variable file from svelte materialify:
 
 ```scss
-@import 'svelte-materialify/src/styles/variables';
+@import 'sveltfy/src/styles/variables';
 ```
 
 <Components.Alert type='info'>

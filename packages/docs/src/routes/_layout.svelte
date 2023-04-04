@@ -1,7 +1,7 @@
 <script>
   import { onMount } from 'svelte';
   import { mdiGithub, mdiDiscord } from '@mdi/js';
-  import { MaterialApp, AppBar, Button, Icon } from 'svelte-materialify/src';
+  import { MaterialApp, AppBar, Button, Icon } from 'sveltfy/src';
   import SiteNavigation from '@/components/navigation/SiteNavigation.svelte';
   import Loading from '@/components/navigation/Loading.svelte';
   import { theme } from '@/util/stores';
@@ -28,7 +28,7 @@
       window.localStorage.setItem('theme', value);
     });
 
-    import('svelte-materialify/src/utils/breakpoints').then(({ default: data }) => {
+    import('sveltfy/src/utils/breakpoints').then(({ default: data }) => {
       breakpoints = data;
       checkMobile();
     });

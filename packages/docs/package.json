@@ -14,8 +14,8 @@
     "gumshoejs": "^5.1.2",
     "polka": "next",
     "sirv": "^1.0.11",
-    "svelte-materialify": "^0.3.11",
-    "svelte-materialify-api": "^0.3.11"
+    "sveltfy": "^0.3.11",
+    "sveltfy-api": "^0.3.11"
   },
   "devDependencies": {
     "@babel/core": "^7.12.13",

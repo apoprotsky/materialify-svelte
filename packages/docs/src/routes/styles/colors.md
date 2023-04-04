@@ -5,8 +5,8 @@ keywords: colors, material design colors, vuetify color pack, material color cla
 ---
 
 <script>
-  import {Row, Col} from 'svelte-materialify/src';
-  import colors from 'svelte-materialify/src/utils/colors';
+  import {Row, Col} from 'sveltfy/src';
+  import colors from 'sveltfy/src/utils/colors';
   function pickTextColor(bgColor) {
     var color = (bgColor.charAt(0) === '#') ? bgColor.substring(1, 7) : bgColor;
     var r = parseInt(color.substring(0, 2), 16); // hexToR
@@ -34,7 +34,7 @@ Svelte Materialify provides all the colors in the material design pallete at you
 
 ## Classes
 
-Each color gets its own `text` and `background` variant. You can use these classes in your application like `<div class='red' />` for red background and `<span class='red-text' />`. These colors are defined over [here](https://github.com/TheComputerM/svelte-materialify/blob/master/packages/svelte-materialify/src/styles/tools/_colors.scss).
+Each color gets its own `text` and `background` variant. You can use these classes in your application like `<div class='red' />` for red background and `<span class='red-text' />`. These colors are defined over [here](https://github.com/TheComputerM/svelte-materialify/blob/master/packages/sveltfy/src/styles/tools/_colors.scss).
 
 You can also change the variant of the background color by adding the class: `{lighten|darken}-{n}` and change the accent by adding the class `accent-{n}`
 
@@ -61,7 +61,7 @@ You can also do the same for theme colors such as `primary-color` for background
 To add material colors in your own styles, just include the scss file.
 
 ```scss
-@import 'svelte-materialify/src/styles/tools/colors';
+@import 'sveltfy/src/styles/tools/colors';
 
 h1 {
   color: material-color('red', 'base');
@@ -71,14 +71,14 @@ h1 {
 
 ## Javascript
 
-You can also import colors from the included [utility](https://github.com/TheComputerM/svelte-materialify/blob/master/packages/svelte-materialify/src/utils/colors.js) in javascript if you wish to do so.
+You can also import colors from the included [utility](https://github.com/TheComputerM/svelte-materialify/blob/master/packages/sveltfy/src/utils/colors.js) in javascript if you wish to do so.
 
 ```js
-import colors from 'svelte-materialify/src/utils/colors';
+import colors from 'sveltfy/src/utils/colors';
 let red = colors.red.base;
 let lightRed = colors.red['lighten-1'];
 
-import { deepPurple } from 'svelte-materialify/src/utils/colors';
+import { deepPurple } from 'sveltfy/src/utils/colors';
 let purple = deepPurple.base;
 ```
 

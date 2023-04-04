@@ -5,7 +5,7 @@
     Icon,
     NavigationDrawer,
     Overlay,
-  } from 'svelte-materialify/src';
+  } from 'sveltfy/src';
   import { mdiMenu } from '@mdi/js';
 
   let active = false;

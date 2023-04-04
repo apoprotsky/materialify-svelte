@@ -6,7 +6,7 @@
     Button,
     Icon,
     Overlay,
-  } from 'svelte-materialify/src';
+  } from 'sveltfy/src';
   import { mdiViewDashboard, mdiAccountBox, mdiGavel } from '@mdi/js';
 
   let active = false;

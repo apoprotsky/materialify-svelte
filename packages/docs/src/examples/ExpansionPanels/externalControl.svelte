@@ -1,5 +1,5 @@
 <script>
-  import { ExpansionPanel, ExpansionPanels, Button } from 'svelte-materialify/src';
+  import { ExpansionPanel, ExpansionPanels, Button } from 'sveltfy/src';
 
   let value = [2];
 

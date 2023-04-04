@@ -1,5 +1,5 @@
 <script>
-  import { Subheader, ListItem, Icon } from 'svelte-materialify/src';
+  import { Subheader, ListItem, Icon } from 'sveltfy/src';
   import { mdiLabel } from '@mdi/js';
 </script>
 

@@ -1,5 +1,5 @@
 <script>
-  import { Row, Col, Button, Icon, Tooltip } from 'svelte-materialify/src';
+  import { Row, Col, Button, Icon, Tooltip } from 'sveltfy/src';
   import { mdiCart } from '@mdi/js';
 
   let show = false;

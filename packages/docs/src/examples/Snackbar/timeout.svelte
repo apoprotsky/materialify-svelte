@@ -1,5 +1,5 @@
 <script>
-  import { Snackbar, Button } from 'svelte-materialify/src';
+  import { Snackbar, Button } from 'sveltfy/src';
 
   let snackbar = false;
 </script>

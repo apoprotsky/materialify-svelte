@@ -1,5 +1,5 @@
 <script>
-  import { Intersect } from 'svelte-materialify/src';
+  import { Intersect } from 'sveltfy/src';
 
   let isIntersecting = false;
   function intersect({ detail }) {

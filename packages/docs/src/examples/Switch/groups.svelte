@@ -1,5 +1,5 @@
 <script>
-  import { Switch } from 'svelte-materialify/src';
+  import { Switch } from 'sveltfy/src';
 
   let group = ['2'];
 </script>

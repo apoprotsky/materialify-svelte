@@ -1,4 +1,4 @@
-import { all as API } from 'svelte-materialify-api';
+import { all as API } from 'sveltfy-api';
 import {
   mdiSpeedometerMedium,
   mdiSpeedometer,

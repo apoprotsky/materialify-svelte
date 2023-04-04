@@ -13,7 +13,7 @@
     Col,
     Footer,
     Alert,
-  } from 'svelte-materialify/src';
+  } from 'sveltfy/src';
   import Meta from '@/components/Meta.svelte';
   import { mdiSpeedometer, mdiGithub, mdiPlus, mdiTwitter } from '@mdi/js';
 </script>

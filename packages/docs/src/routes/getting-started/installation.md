@@ -22,10 +22,10 @@ You can also **optionally** add [focus-visible](https://github.com/WICG/focus-vi
 
 ## Install with Default Styles
 
-If you want a fast and basic setup, without custom SCSS/SASS, then only installing `svelte-materialify` should be fine:
+If you want a fast and basic setup, without custom SCSS/SASS, then only installing `sveltfy` should be fine:
 
 ```shell
-$ npm i svelte-materialify
+$ npm i sveltfy
 ```
 
 ## Install with Custom Styles
@@ -33,7 +33,7 @@ $ npm i svelte-materialify
 If you want finer control over Svelte Materialify, install all its peer dependencies:
 
 ```shell
-$ npm i -D svelte-materialify svelte-preprocess sass postcss
+$ npm i -D sveltfy svelte-preprocess sass postcss
 ```
 
 Now create a **\_material-theme.scss** file. Let's put it in a folder called **theme**.

@@ -1,5 +1,5 @@
 <script>
-  import { ExpansionPanels, ExpansionPanel, Checkbox } from 'svelte-materialify/src';
+  import { ExpansionPanels, ExpansionPanel, Checkbox } from 'sveltfy/src';
 
   let disabled = true;
 </script>

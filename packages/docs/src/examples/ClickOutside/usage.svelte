@@ -1,5 +1,5 @@
 <script>
-  import { ClickOutside } from 'svelte-materialify/src';
+  import { ClickOutside } from 'sveltfy/src';
 
   let active = false;
 

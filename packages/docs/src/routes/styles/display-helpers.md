@@ -31,7 +31,7 @@ If you want to check the screen size in javascript then Svelte Materialify has g
 <script>
   import { onMount } from 'svelte';
   onMount(async () => {
-    let breakpoints = await import('svelte-materialify/src/utils/breakpoints');
+    let breakpoints = await import('sveltfy/src/utils/breakpoints');
     breakpoints = breakpoints.default;
 
     // check if screen size is less than or equal to medium

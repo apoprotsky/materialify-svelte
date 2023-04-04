@@ -1,5 +1,5 @@
 <script>
-  import { Button } from 'svelte-materialify/src';
+  import { Button } from 'sveltfy/src';
 </script>
 
 <div class="d-flex flex-column flex-sm-row justify-space-between">

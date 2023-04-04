@@ -1,5 +1,5 @@
 <script>
-  import { Chip, Button } from 'svelte-materialify/src';
+  import { Chip, Button } from 'sveltfy/src';
 
   let active = true;
   let timesClosed = 0;

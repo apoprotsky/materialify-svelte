@@ -1,5 +1,5 @@
 <script>
-  import { Subheader, Button, Icon, Row, Col } from 'svelte-materialify/src';
+  import { Subheader, Button, Icon, Row, Col } from 'sveltfy/src';
   import { mdiArrowLeft, mdiMagnify } from '@mdi/js';
 </script>
 

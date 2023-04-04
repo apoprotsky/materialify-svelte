@@ -1,5 +1,5 @@
 <script>
-  import { List, ListGroup, ListItem, Icon } from 'svelte-materialify/src';
+  import { List, ListGroup, ListItem, Icon } from 'sveltfy/src';
   import { mdiHome, mdiCog, mdiChevronUp } from '@mdi/js';
 
   let active = false;

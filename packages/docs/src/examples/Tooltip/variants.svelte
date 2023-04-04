@@ -1,5 +1,5 @@
 <script>
-  import { Button, Tooltip, Icon } from 'svelte-materialify/src';
+  import { Button, Tooltip, Icon } from 'sveltfy/src';
   import { mdiHome } from '@mdi/js';
 </script>
 

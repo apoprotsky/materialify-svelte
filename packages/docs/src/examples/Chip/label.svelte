@@ -1,5 +1,5 @@
 <script>
-  import { Chip } from 'svelte-materialify/src';
+  import { Chip } from 'sveltfy/src';
 </script>
 
 <div class="d-flex justify-center">

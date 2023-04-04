@@ -1,6 +1,6 @@
 <script>
   import Playground from '@/components/doc/Playground.svelte';
-  import { Button, Icon } from 'svelte-materialify/src';
+  import { Button, Icon } from 'sveltfy/src';
   import { mdiHome } from '@mdi/js';
 
   const variants = ['depressed', 'outlined', 'rounded', 'text', 'fab', 'icon', 'tile'];

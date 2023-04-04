@@ -25,7 +25,7 @@ The `elevation` helper classes allow you to assign a custom **z-depth** to any e
 You can also access the elevation helpers through SCSS mixins by including the elevation tool
 
 ```scss
-@import 'svelte-materialify/src/styles/tools/elevation';
+@import 'sveltfy/src/styles/tools/elevation';
 
 div {
   // $n is the depth

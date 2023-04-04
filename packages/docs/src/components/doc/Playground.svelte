@@ -11,7 +11,7 @@
     SlideGroup,
     SlideItem,
     Ripple,
-  } from 'svelte-materialify/src';
+  } from 'sveltfy/src';
   import { mdiInvertColors } from '@mdi/js';
 
   export let values;

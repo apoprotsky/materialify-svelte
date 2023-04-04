@@ -11,7 +11,7 @@
   import links from '@/util/links';
   import Meta from '../Meta.svelte';
   import RelatedPages from './RelatedPages.svelte';
-  import { Divider, Icon } from 'svelte-materialify/src';
+  import { Divider, Icon } from 'sveltfy/src';
   import { onMount, onDestroy, tick } from 'svelte';
   import { mdiOpenInNew } from '@mdi/js';
   import { hashURL } from '../../util/stores';

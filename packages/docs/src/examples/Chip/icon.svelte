@@ -1,5 +1,5 @@
 <script>
-  import { Chip, Icon, Avatar } from 'svelte-materialify/src';
+  import { Chip, Icon, Avatar } from 'sveltfy/src';
   import { mdiAccount, mdiStar, mdiAndroidMessages, mdiDelete } from '@mdi/js';
 </script>
 

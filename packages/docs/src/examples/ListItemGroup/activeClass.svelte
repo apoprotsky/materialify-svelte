@@ -1,5 +1,5 @@
 <script>
-  import { ListItemGroup, ListItem, Icon } from 'svelte-materialify/src';
+  import { ListItemGroup, ListItem, Icon } from 'sveltfy/src';
   import { mdiHome, mdiStar, mdiAccount } from '@mdi/js';
 </script>
 

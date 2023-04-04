@@ -1,6 +1,6 @@
 <script>
   import Playground from '@/components/doc/Playground.svelte';
-  import { Icon } from 'svelte-materialify/src';
+  import { Icon } from 'sveltfy/src';
   import { mdiPlus, mdiMagnet, mdiAccount, mdiViewDashboard } from '@mdi/js';
 
   const items = [

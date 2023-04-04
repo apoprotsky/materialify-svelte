@@ -1,7 +1,7 @@
 <svelte:options immutable={true} />
 
 <script>
-  import { Row, Col, ListItem, Icon } from 'svelte-materialify/src';
+  import { Row, Col, ListItem, Icon } from 'sveltfy/src';
   import {
     mdiViewDashboardOutline,
     mdiSpeedometer,

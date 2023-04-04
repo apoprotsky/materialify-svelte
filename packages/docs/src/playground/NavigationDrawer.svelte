@@ -7,7 +7,7 @@
     Icon,
     Avatar,
     Divider,
-  } from 'svelte-materialify/src';
+  } from 'sveltfy/src';
   import { mdiViewDashboard, mdiAccountBox, mdiGavel } from '@mdi/js';
 
   const controls = {

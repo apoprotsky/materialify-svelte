@@ -1,5 +1,5 @@
 <script>
-  import { ProgressCircular } from 'svelte-materialify/src';
+  import { ProgressCircular } from 'sveltfy/src';
 </script>
 
 <div class="d-flex justify-center">

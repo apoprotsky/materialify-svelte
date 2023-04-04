@@ -1,5 +1,5 @@
 <script>
-  import { ListItemGroup, ListItem } from 'svelte-materialify/src';
+  import { ListItemGroup, ListItem } from 'sveltfy/src';
 </script>
 
 <div class="ml-auto mr-auto elevation-2" style="width:500px">

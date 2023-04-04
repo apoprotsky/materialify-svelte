@@ -1,5 +1,5 @@
 <script>
-  import { Button } from 'svelte-materialify/src';
+  import { Button } from 'sveltfy/src';
 </script>
 
 <Button rounded class="primary-color">Rounded</Button>

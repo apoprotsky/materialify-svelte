@@ -1,5 +1,5 @@
 <script>
-  import { Slider } from 'svelte-materialify/src';
+  import { Slider } from 'sveltfy/src';
 </script>
 
 <Slider disabled>Disabled</Slider>

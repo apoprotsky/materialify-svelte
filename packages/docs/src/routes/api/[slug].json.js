@@ -1,4 +1,4 @@
-import * as Docs from 'svelte-materialify-api';
+import * as Docs from 'sveltfy-api';
 
 export function get(req, res) {
   const { slug } = req.params;

@@ -12,7 +12,7 @@
 </script>
 
 <script>
-  import { Alert, Icon } from 'svelte-materialify/src';
+  import { Alert, Icon } from 'sveltfy/src';
 
   export let type = 'info';
   const icon = icons[type];

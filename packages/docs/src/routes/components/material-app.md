@@ -27,7 +27,7 @@ The default theme is the light theme, this is how ideally your base layout shoul
 
 ```html
 <script>
-  import { MaterialApp } from 'svelte-materialify';
+  import { MaterialApp } from 'sveltfy';
   let theme = 'light';
 
   function toggleTheme() {

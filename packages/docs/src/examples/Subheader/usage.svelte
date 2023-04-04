@@ -1,5 +1,5 @@
 <script>
-  import { Subheader } from 'svelte-materialify/src';
+  import { Subheader } from 'sveltfy/src';
 </script>
 
 <Subheader>Subheader</Subheader>

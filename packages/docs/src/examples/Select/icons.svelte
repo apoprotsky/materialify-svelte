@@ -1,5 +1,5 @@
 <script>
-  import { Row, Col, Select, Icon } from 'svelte-materialify/src';
+  import { Row, Col, Select, Icon } from 'sveltfy/src';
   import { mdiHome } from '@mdi/js';
 
   const items = [

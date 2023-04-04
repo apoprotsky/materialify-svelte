@@ -1,6 +1,6 @@
 <script>
   import Playground from '@/components/doc/Playground.svelte';
-  import { Chip, Avatar, Icon } from 'svelte-materialify/src';
+  import { Chip, Avatar, Icon } from 'sveltfy/src';
   import { mdiPlus, mdiMagnet, mdiAccount, mdiViewDashboard } from '@mdi/js';
 
   const variants = ['label', 'link', 'outlined', 'pill'];

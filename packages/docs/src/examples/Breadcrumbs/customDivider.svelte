@@ -1,5 +1,5 @@
 <script>
-  import { Breadcrumbs, Icon } from 'svelte-materialify/src';
+  import { Breadcrumbs, Icon } from 'sveltfy/src';
   import { mdiArrowRightBold } from '@mdi/js';
 
   const items = [

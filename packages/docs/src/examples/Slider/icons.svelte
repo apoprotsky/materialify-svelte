@@ -1,5 +1,5 @@
 <script>
-  import { Slider, Icon } from 'svelte-materialify/src';
+  import { Slider, Icon } from 'sveltfy/src';
   import { mdiMinus, mdiPlus } from '@mdi/js';
 </script>
 

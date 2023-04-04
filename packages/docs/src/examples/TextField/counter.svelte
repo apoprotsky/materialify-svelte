@@ -1,5 +1,5 @@
 <script>
-  import { TextField, Row, Col } from 'svelte-materialify/src';
+  import { TextField, Row, Col } from 'sveltfy/src';
 
   const rules = [(v) => v.length <= 20 || 'Max 20 characters'];
 </script>

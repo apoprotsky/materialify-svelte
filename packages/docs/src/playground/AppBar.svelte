@@ -1,6 +1,6 @@
 <script>
   import Playground from '@/components/doc/Playground.svelte';
-  import { AppBar, Button, Icon } from 'svelte-materialify/src';
+  import { AppBar, Button, Icon } from 'sveltfy/src';
   import { mdiMenu, mdiMagnify } from '@mdi/js';
 
   const variants = ['dense', 'prominent', 'flat'];

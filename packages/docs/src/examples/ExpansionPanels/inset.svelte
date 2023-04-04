@@ -1,5 +1,5 @@
 <script>
-  import { ExpansionPanel, ExpansionPanels } from 'svelte-materialify/src';
+  import { ExpansionPanel, ExpansionPanels } from 'sveltfy/src';
 </script>
 
 <ExpansionPanels inset>

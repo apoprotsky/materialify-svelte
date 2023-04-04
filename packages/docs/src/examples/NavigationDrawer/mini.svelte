@@ -6,7 +6,7 @@
     Avatar,
     Divider,
     Icon,
-  } from 'svelte-materialify/src';
+  } from 'sveltfy/src';
   import { mdiHomeCity, mdiAccount, mdiAccountGroup } from '@mdi/js';
 
   let mini = true;

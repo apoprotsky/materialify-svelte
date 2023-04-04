@@ -1,5 +1,5 @@
 <script>
-  import { ExpansionPanel, ExpansionPanels } from 'svelte-materialify/src';
+  import { ExpansionPanel, ExpansionPanels } from 'sveltfy/src';
 
   let value = [1];
   let about = { index: '', active: '' };

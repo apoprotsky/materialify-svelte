@@ -7,7 +7,7 @@
     Button,
     Row,
     Col,
-  } from 'svelte-materialify/src';
+  } from 'sveltfy/src';
 
   const songs = [
     { name: 'Tuba Angel', author: 'Иοκτцяηаι', color: 'blue' },

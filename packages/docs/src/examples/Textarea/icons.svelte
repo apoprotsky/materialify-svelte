@@ -1,5 +1,5 @@
 <script>
-  import { Textarea, Icon, Row, Col } from 'svelte-materialify/src';
+  import { Textarea, Icon, Row, Col } from 'sveltfy/src';
   import { mdiHome } from '@mdi/js';
 </script>
 

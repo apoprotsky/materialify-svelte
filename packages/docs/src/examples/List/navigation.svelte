@@ -7,7 +7,7 @@
     Avatar,
     Icon,
     Divider,
-  } from 'svelte-materialify/src';
+  } from 'sveltfy/src';
   import {
     mdiFolder,
     mdiAccountMultiple,

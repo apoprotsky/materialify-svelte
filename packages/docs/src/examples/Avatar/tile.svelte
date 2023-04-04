@@ -1,5 +1,5 @@
 <script>
-  import { Avatar } from 'svelte-materialify/src';
+  import { Avatar } from 'sveltfy/src';
 </script>
 
 <div class="d-flex justify-center">

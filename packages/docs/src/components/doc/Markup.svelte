@@ -2,7 +2,7 @@
 
 <script>
   import Clipboard from 'clipboard';
-  import { Button, Icon } from 'svelte-materialify/src';
+  import { Button, Icon } from 'sveltfy/src';
   import { mdiContentCopy } from '@mdi/js';
 
   export let lang = '';

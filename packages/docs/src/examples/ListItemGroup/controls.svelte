@@ -1,5 +1,5 @@
 <script>
-  import { ListItemGroup, ListItem, Checkbox } from 'svelte-materialify/src';
+  import { ListItemGroup, ListItem, Checkbox } from 'sveltfy/src';
 
   let value = ['foo'];
 </script>

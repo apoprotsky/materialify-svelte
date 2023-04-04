@@ -29,4 +29,4 @@ Inline `code` element
 
 ## User Input
 
-To install svelte materialify, type <kbd>yarn add svelte-materialify</kbd>
+To install svelte materialify, type <kbd>yarn add sveltfy</kbd>

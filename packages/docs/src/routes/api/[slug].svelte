@@ -13,7 +13,7 @@
 </script>
 
 <script>
-  import { Table, Icon } from 'svelte-materialify/src';
+  import { Table, Icon } from 'sveltfy/src';
   import Layout from '@/components/doc/Layout.svelte';
   import { mdiPound } from '@mdi/js';
 

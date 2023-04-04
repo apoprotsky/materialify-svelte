@@ -6,7 +6,7 @@
 
 <script>
   import { stores } from '@sapper/app';
-  import { ListGroup, ListItem, Icon } from 'svelte-materialify/src';
+  import { ListGroup, ListItem, Icon } from 'sveltfy/src';
   import { mdiChevronDown } from '@mdi/js';
 
   const { page } = stores();

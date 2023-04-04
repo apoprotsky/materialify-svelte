@@ -1,5 +1,5 @@
 <script>
-  import { Row, Col, TextField } from 'svelte-materialify/src';
+  import { Row, Col, TextField } from 'sveltfy/src';
 </script>
 
 <Row>

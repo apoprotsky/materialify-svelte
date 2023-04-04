@@ -1,6 +1,6 @@
 <script>
   import { markdown } from '@/util/stores';
-  import { ProgressCircular } from 'svelte-materialify/src';
+  import { ProgressCircular } from 'sveltfy/src';
 </script>
 
 <style>

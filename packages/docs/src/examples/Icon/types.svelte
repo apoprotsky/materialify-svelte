@@ -1,5 +1,5 @@
 <script>
-  import { Icon } from 'svelte-materialify/src';
+  import { Icon } from 'sveltfy/src';
   import { mdiHome, mdiRefresh } from '@mdi/js';
   import { faAward, faCamera } from '@fortawesome/free-solid-svg-icons';
 </script>

@@ -1,5 +1,5 @@
 <script>
-  import { ButtonGroup, ButtonGroupItem, Icon } from 'svelte-materialify/src';
+  import { ButtonGroup, ButtonGroupItem, Icon } from 'sveltfy/src';
   import {
     mdiFormatAlignLeft,
     mdiFormatAlignCenter,

@@ -1,5 +1,5 @@
 <script>
-  import { NavigationDrawer, List, ListItem, Button, Icon } from 'svelte-materialify/src';
+  import { NavigationDrawer, List, ListItem, Button, Icon } from 'sveltfy/src';
   import { mdiViewDashboard, mdiAccountBox, mdiGavel } from '@mdi/js';
 </script>
 

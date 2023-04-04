@@ -1,5 +1,5 @@
 <script>
-  import { Chip, Icon } from 'svelte-materialify/src';
+  import { Chip, Icon } from 'sveltfy/src';
   import { mdiAccount } from '@mdi/js';
 </script>
 

@@ -1,11 +1,11 @@
 {
-  "name": "svelte-materialify",
+  "name": "sveltfy",
   "version": "0.3.11",
   "description": "A material design framework/component library for Svelte, with full support for light and dark themes and customisability.",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/TheComputerM/svelte-materialify",
+    "url": "https://github.com/apoprotsky/svelte-materialify",
     "directory": "packages/svelte-materialify"
   },
   "author": "TheComputerM",

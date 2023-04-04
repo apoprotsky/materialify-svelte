@@ -6,7 +6,7 @@
   import { onMount } from 'svelte';
   import { slide } from 'svelte/transition';
   import Markup from './Markup.svelte';
-  import { Icon, Button } from 'svelte-materialify/src';
+  import { Icon, Button } from 'sveltfy/src';
   import { mdiInvertColors, mdiGithub, mdiCodeTags } from '@mdi/js';
 
   export let file = '';

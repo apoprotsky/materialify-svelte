@@ -6,7 +6,7 @@
     ListItem,
     Checkbox,
     Divider,
-  } from 'svelte-materialify/src';
+  } from 'sveltfy/src';
 
   let values = [];
 </script>

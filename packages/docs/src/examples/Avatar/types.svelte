@@ -1,5 +1,5 @@
 <script>
-  import { Avatar, Icon } from 'svelte-materialify/src';
+  import { Avatar, Icon } from 'sveltfy/src';
   import { mdiAccountCircle } from '@mdi/js';
 </script>
 

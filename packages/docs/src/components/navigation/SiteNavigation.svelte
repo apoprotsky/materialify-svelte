@@ -2,7 +2,7 @@
   export let mobile;
   export let sidenav;
 
-  import { Button, NavigationDrawer, List, Overlay } from 'svelte-materialify/src/';
+  import { Button, NavigationDrawer, List, Overlay } from 'sveltfy/src/';
   import routes from '@/util/routes';
 
   import LeftNavigationDrawer from './LeftNavigationDrawer.svelte';

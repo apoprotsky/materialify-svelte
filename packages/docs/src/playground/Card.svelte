@@ -7,7 +7,7 @@
     CardSubtitle,
     CardActions,
     Button,
-  } from 'svelte-materialify/src';
+  } from 'sveltfy/src';
 
   const variants = ['outlined', 'shaped', 'tile', 'flat', 'raised', 'hover'];
 

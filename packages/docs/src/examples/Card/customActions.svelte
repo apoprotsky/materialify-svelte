@@ -7,7 +7,7 @@
     Button,
     Icon,
     Divider,
-  } from 'svelte-materialify/src';
+  } from 'sveltfy/src';
   import { slide } from 'svelte/transition';
   import { mdiChevronDown } from '@mdi/js';
 

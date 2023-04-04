@@ -6,7 +6,7 @@
     CardTitle,
     CardText,
     CardActions,
-  } from 'svelte-materialify/src';
+  } from 'sveltfy/src';
 
   let active = false;
 

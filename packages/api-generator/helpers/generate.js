@@ -43,12 +43,12 @@ async function build() {
   await bundle.write({
     file: './dist/index.js',
     format: 'umd',
-    name: 'svelte-materialify-api',
+    name: 'sveltfy-api',
   });
 }
 
 (async () => {
-  let paths = await globby('../svelte-materialify/src/**/*.svelte');
+  let paths = await globby('../sveltfy/src/**/*.svelte');
   paths.forEach(generateJSON);
   paths = paths.map((name) => basename(name, '.svelte'));
   await writeFile('./src/all.json', fmt({ names: paths }, format), (err) => {

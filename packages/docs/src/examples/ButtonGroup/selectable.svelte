@@ -1,5 +1,5 @@
 <script>
-  import { ButtonGroup, ButtonGroupItem } from 'svelte-materialify/src';
+  import { ButtonGroup, ButtonGroupItem } from 'sveltfy/src';
 
   let value = 1;
 </script>
